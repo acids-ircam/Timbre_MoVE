@@ -54,157 +54,157 @@ Below we display the corresponding spectrograms with first the input NSGT spectr
 
 Transfer to Flute of *ASax-ord-D#5-mf*
 <p align="center">
-<img src="https://github.com/anonymous124/iclr2019MoVE/blob/master/docs/note_transfers/MoVE_multi/multi_0_3_5_8/spectrograms/ASax-ord-D%235-mf__trans_Flute.png" height="65%" width="65%">
+<img src="note_transfers/MoVE_multi/multi_0_3_5_8/spectrograms/ASax-ord-D%235-mf__trans_Flute.png" height="65%" width="65%">
 </p>
 
 Transfer to French-Horn of *ASax-ord-D#5-mf*
 <p align="center">
-<img src="https://github.com/anonymous124/iclr2019MoVE/blob/master/docs/note_transfers/MoVE_multi/multi_0_3_5_8/spectrograms/ASax-ord-D%235-mf__trans_French-Horn.png" height="65%" width="65%">
+<img src="note_transfers/MoVE_multi/multi_0_3_5_8/spectrograms/ASax-ord-D%235-mf__trans_French-Horn.png" height="65%" width="65%">
 </p>
 
 Transfer to Violin of *ASax-ord-D#5-mf*
 <p align="center">
-<img src="https://github.com/anonymous124/iclr2019MoVE/blob/master/docs/note_transfers/MoVE_multi/multi_0_3_5_8/spectrograms/ASax-ord-D%235-mf__trans_Violin.png" height="65%" width="65%">
+<img src="note_transfers/MoVE_multi/multi_0_3_5_8/spectrograms/ASax-ord-D%235-mf__trans_Violin.png" height="65%" width="65%">
 </p>
 
 **French-Horn reconstruction of Corf-ordinario-C4-f**
 <p align="center">
-<img src="https://github.com/anonymous124/iclr2019MoVE/blob/master/docs/note_transfers/MoVE_multi/multi_0_3_5_8/spectrograms/Corf-ordinario-C4-f___rec_French-Horn.png" height="65%" width="65%">
+<img src="note_transfers/MoVE_multi/multi_0_3_5_8/spectrograms/Corf-ordinario-C4-f___rec_French-Horn.png" height="65%" width="65%">
 </p>
 
 Transfer to Alto-Saxophone of *Corf-ordinario-C4-f*
 <p align="center">
-<img src="https://github.com/anonymous124/iclr2019MoVE/blob/master/docs/note_transfers/MoVE_multi/multi_0_3_5_8/spectrograms/Corf-ordinario-C4-f__trans_Alto-Sax.png" height="65%" width="65%">
+<img src="note_transfers/MoVE_multi/multi_0_3_5_8/spectrograms/Corf-ordinario-C4-f__trans_Alto-Sax.png" height="65%" width="65%">
 </p>
 
 Transfer to Flute of *Corf-ordinario-C4-f*
 <p align="center">
-<img src="https://github.com/anonymous124/iclr2019MoVE/blob/master/docs/note_transfers/MoVE_multi/multi_0_3_5_8/spectrograms/Corf-ordinario-C4-f__trans_Flute.png" height="65%" width="65%">
+<img src="note_transfers/MoVE_multi/multi_0_3_5_8/spectrograms/Corf-ordinario-C4-f__trans_Flute.png" height="65%" width="65%">
 </p>
 
 Transfer to Violin of *Corf-ordinario-C4-f*
 <p align="center">
-<img src="https://github.com/anonymous124/iclr2019MoVE/blob/master/docs/note_transfers/MoVE_multi/multi_0_3_5_8/spectrograms/Corf-ordinario-C4-f__trans_Violin.png" height="65%" width="65%">
+<img src="note_transfers/MoVE_multi/multi_0_3_5_8/spectrograms/Corf-ordinario-C4-f__trans_Violin.png" height="65%" width="65%">
 </p>
 
 **Flute reconstruction of Fl-ord-A#4-ff**
 <p align="center">
-<img src="https://github.com/anonymous124/iclr2019MoVE/blob/master/docs/note_transfers/MoVE_multi/multi_0_3_5_8/spectrograms/Fl-ord-A%234-ff___rec_Flute.png" height="65%" width="65%">
+<img src="note_transfers/MoVE_multi/multi_0_3_5_8/spectrograms/Fl-ord-A%234-ff___rec_Flute.png" height="65%" width="65%">
 </p>
 
 Transfer to Alto-Saxophone of *Fl-ord-A#4-ff*
 <p align="center">
-<img src="https://github.com/anonymous124/iclr2019MoVE/blob/master/docs/note_transfers/MoVE_multi/multi_0_3_5_8/spectrograms/Fl-ord-A%234-ff__trans_Alto-Sax.png" height="65%" width="65%">
+<img src="note_transfers/MoVE_multi/multi_0_3_5_8/spectrograms/Fl-ord-A%234-ff__trans_Alto-Sax.png" height="65%" width="65%">
 </p>
 
 Transfer to French-Horn of *Fl-ord-A#4-ff*
 <p align="center">
-<img src="https://github.com/anonymous124/iclr2019MoVE/blob/master/docs/note_transfers/MoVE_multi/multi_0_3_5_8/spectrograms/Fl-ord-A%234-ff__trans_French-Horn.png" height="65%" width="65%">
+<img src="note_transfers/MoVE_multi/multi_0_3_5_8/spectrograms/Fl-ord-A%234-ff__trans_French-Horn.png" height="65%" width="65%">
 </p>
 
 Transfer to Violin of *Fl-ord-A#4-ff*
 <p align="center">
-<img src="https://github.com/anonymous124/iclr2019MoVE/blob/master/docs/note_transfers/MoVE_multi/multi_0_3_5_8/spectrograms/Fl-ord-A%234-ff__trans_Violin.png" height="65%" width="65%">
+<img src="note_transfers/MoVE_multi/multi_0_3_5_8/spectrograms/Fl-ord-A%234-ff__trans_Violin.png" height="65%" width="65%">
 </p>
 
 **Violin reconstruction of Vn-ord-B4-pp**
 <p align="center">
-<img src="https://github.com/anonymous124/iclr2019MoVE/blob/master/docs/note_transfers/MoVE_multi/multi_0_3_5_8/spectrograms/Vn-ord-B4-pp___rec_Violin.png" height="65%" width="65%">
+<img src="note_transfers/MoVE_multi/multi_0_3_5_8/spectrograms/Vn-ord-B4-pp___rec_Violin.png" height="65%" width="65%">
 </p>
 
 Transfer to Alto-Saxophone of *Vn-ord-B4-pp*
 <p align="center">
-<img src="https://github.com/anonymous124/iclr2019MoVE/blob/master/docs/note_transfers/MoVE_multi/multi_0_3_5_8/spectrograms/Vn-ord-B4-pp__trans_Alto-Sax.png" height="65%" width="65%">
+<img src="note_transfers/MoVE_multi/multi_0_3_5_8/spectrograms/Vn-ord-B4-pp__trans_Alto-Sax.png" height="65%" width="65%">
 </p>
 
 Transfer to Flute of *Vn-ord-B4-pp*
 <p align="center">
-<img src="https://github.com/anonymous124/iclr2019MoVE/blob/master/docs/note_transfers/MoVE_multi/multi_0_3_5_8/spectrograms/Vn-ord-B4-pp__trans_Flute.png" height="65%" width="65%">
+<img src="note_transfers/MoVE_multi/multi_0_3_5_8/spectrograms/Vn-ord-B4-pp__trans_Flute.png" height="65%" width="65%">
 </p>
 
 Transfer to French-Horn of *Vn-ord-B4-pp*
 <p align="center">
-<img src="https://github.com/anonymous124/iclr2019MoVE/blob/master/docs/note_transfers/MoVE_multi/multi_0_3_5_8/spectrograms/Vn-ord-B4-pp__trans_French-Horn.png" height="65%" width="65%">
+<img src="note_transfers/MoVE_multi/multi_0_3_5_8/spectrograms/Vn-ord-B4-pp__trans_French-Horn.png" height="65%" width="65%">
 </p>
 
 **Clarinet-Bb reconstruction of ClBb-ord-E3-mf**
 <p align="center">
-<img src="https://github.com/anonymous124/iclr2019MoVE/blob/master/docs/note_transfers/MoVE_multi/multi_2_6_9_11/spectrograms/ClBb-ord-E3-mf___rec_Clarinet-Bb.png" height="65%" width="65%">
+<img src="note_transfers/MoVE_multi/multi_2_6_9_11/spectrograms/ClBb-ord-E3-mf___rec_Clarinet-Bb.png" height="65%" width="65%">
 </p>
 
 Transfer to Piano of *ClBb-ord-E3-mf*
 <p align="center">
-<img src="https://github.com/anonymous124/iclr2019MoVE/blob/master/docs/note_transfers/MoVE_multi/multi_2_6_9_11/spectrograms/ClBb-ord-E3-mf__trans_Piano.png" height="65%" width="65%">
+<img src="note_transfers/MoVE_multi/multi_2_6_9_11/spectrograms/ClBb-ord-E3-mf__trans_Piano.png" height="65%" width="65%">
 </p>
 
 Transfer to Tenor-Trombone of *ClBb-ord-E3-mf*
 <p align="center">
-<img src="https://github.com/anonymous124/iclr2019MoVE/blob/master/docs/note_transfers/MoVE_multi/multi_2_6_9_11/spectrograms/ClBb-ord-E3-mf__trans_Tenor-Trombone.png" height="65%" width="65%">
+<img src="note_transfers/MoVE_multi/multi_2_6_9_11/spectrograms/ClBb-ord-E3-mf__trans_Tenor-Trombone.png" height="65%" width="65%">
 </p>
 
 Transfer to Violoncello of *ClBb-ord-E3-mf*
 <p align="center">
-<img src="https://github.com/anonymous124/iclr2019MoVE/blob/master/docs/note_transfers/MoVE_multi/multi_2_6_9_11/spectrograms/ClBb-ord-E3-mf__trans_Violoncello.png" height="65%" width="65%">
+<img src="note_transfers/MoVE_multi/multi_2_6_9_11/spectrograms/ClBb-ord-E3-mf__trans_Violoncello.png" height="65%" width="65%">
 </p>
 
 **Piano reconstruction of Pno-ord-A4-ff**
 <p align="center">
-<img src="https://github.com/anonymous124/iclr2019MoVE/blob/master/docs/note_transfers/MoVE_multi/multi_2_6_9_11/spectrograms/Pno-ord-A4-ff___rec_Piano.png" height="65%" width="65%">
+<img src="note_transfers/MoVE_multi/multi_2_6_9_11/spectrograms/Pno-ord-A4-ff___rec_Piano.png" height="65%" width="65%">
 </p>
 
 Transfer to Clarinet-Bb of *Pno-ord-A4-ff*
 <p align="center">
-<img src="https://github.com/anonymous124/iclr2019MoVE/blob/master/docs/note_transfers/MoVE_multi/multi_2_6_9_11/spectrograms/Pno-ord-A4-ff__trans_Clarinet-Bb.png" height="65%" width="65%">
+<img src="note_transfers/MoVE_multi/multi_2_6_9_11/spectrograms/Pno-ord-A4-ff__trans_Clarinet-Bb.png" height="65%" width="65%">
 </p>
 
 Transfer to Tenor-Trombone of *Pno-ord-A4-ff*
 <p align="center">
-<img src="https://github.com/anonymous124/iclr2019MoVE/blob/master/docs/note_transfers/MoVE_multi/multi_2_6_9_11/spectrograms/Pno-ord-A4-ff__trans_Tenor-Trombone.png" height="65%" width="65%">
+<img src="note_transfers/MoVE_multi/multi_2_6_9_11/spectrograms/Pno-ord-A4-ff__trans_Tenor-Trombone.png" height="65%" width="65%">
 </p>
 
 Transfer to Violoncello of *Pno-ord-A4-ff*
 <p align="center">
-<img src="https://github.com/anonymous124/iclr2019MoVE/blob/master/docs/note_transfers/MoVE_multi/multi_2_6_9_11/spectrograms/Pno-ord-A4-ff__trans_Violoncello.png" height="65%" width="65%">
+<img src="note_transfers/MoVE_multi/multi_2_6_9_11/spectrograms/Pno-ord-A4-ff__trans_Violoncello.png" height="65%" width="65%">
 </p>
 
 **Violoncello reconstruction of Vc-ord-B5-pp**
 <p align="center">
-<img src="https://github.com/anonymous124/iclr2019MoVE/blob/master/docs/note_transfers/MoVE_multi/multi_2_6_9_11/spectrograms/Vc-ord-B5-pp___rec_Violoncello.png" height="65%" width="65%">
+<img src="note_transfers/MoVE_multi/multi_2_6_9_11/spectrograms/Vc-ord-B5-pp___rec_Violoncello.png" height="65%" width="65%">
 </p>
 
 Transfer to Clarinet-Bb of *Vc-ord-B5-pp*
 <p align="center">
-<img src="https://github.com/anonymous124/iclr2019MoVE/blob/master/docs/note_transfers/MoVE_multi/multi_2_6_9_11/spectrograms/Vc-ord-B5-pp__trans_Clarinet-Bb.png" height="65%" width="65%">
+<img src="note_transfers/MoVE_multi/multi_2_6_9_11/spectrograms/Vc-ord-B5-pp__trans_Clarinet-Bb.png" height="65%" width="65%">
 </p>
 
 Transfer to Piano of *Vc-ord-B5-pp*
 <p align="center">
-<img src="https://github.com/anonymous124/iclr2019MoVE/blob/master/docs/note_transfers/MoVE_multi/multi_2_6_9_11/spectrograms/Vc-ord-B5-pp__trans_Piano.png" height="65%" width="65%">
+<img src="note_transfers/MoVE_multi/multi_2_6_9_11/spectrograms/Vc-ord-B5-pp__trans_Piano.png" height="65%" width="65%">
 </p>
 
 Transfer to Tenor-Trombone of *Vc-ord-B5-pp*
 <p align="center">
-<img src="https://github.com/anonymous124/iclr2019MoVE/blob/master/docs/note_transfers/MoVE_multi/multi_2_6_9_11/spectrograms/Vc-ord-B5-pp__trans_Tenor-Trombone.png" height="65%" width="65%">
+<img src="note_transfers/MoVE_multi/multi_2_6_9_11/spectrograms/Vc-ord-B5-pp__trans_Tenor-Trombone.png" height="65%" width="65%">
 </p>
 
 **Tenor-Trombone reconstruction of trbt-ordinario-E3-pp**
 <p align="center">
-<img src="https://github.com/anonymous124/iclr2019MoVE/blob/master/docs/note_transfers/MoVE_multi/multi_2_6_9_11/spectrograms/trbt-ordinario-E3-pp___rec_Tenor-Trombone.png" height="65%" width="65%">
+<img src="note_transfers/MoVE_multi/multi_2_6_9_11/spectrograms/trbt-ordinario-E3-pp___rec_Tenor-Trombone.png" height="65%" width="65%">
 </p>
 
 Transfer to Clarinet-Bb of *trbt-ordinario-E3-pp*
 <p align="center">
-<img src="https://github.com/anonymous124/iclr2019MoVE/blob/master/docs/note_transfers/MoVE_multi/multi_2_6_9_11/spectrograms/trbt-ordinario-E3-pp__trans_Clarinet-Bb.png" height="65%" width="65%">
+<img src="note_transfers/MoVE_multi/multi_2_6_9_11/spectrograms/trbt-ordinario-E3-pp__trans_Clarinet-Bb.png" height="65%" width="65%">
 </p>
 
 Transfer to Piano of *trbt-ordinario-E3-pp*
 <p align="center">
-<img src="https://github.com/anonymous124/iclr2019MoVE/blob/master/docs/note_transfers/MoVE_multi/multi_2_6_9_11/spectrograms/trbt-ordinario-E3-pp__trans_Piano.png" height="65%" width="65%">
+<img src="note_transfers/MoVE_multi/multi_2_6_9_11/spectrograms/trbt-ordinario-E3-pp__trans_Piano.png" height="65%" width="65%">
 </p>
 
 Transfer to Violoncello of *trbt-ordinario-E3-pp*
 <p align="center">
-<img src="https://github.com/anonymous124/iclr2019MoVE/blob/master/docs/note_transfers/MoVE_multi/multi_2_6_9_11/spectrograms/trbt-ordinario-E3-pp__trans_Violoncello.png" height="65%" width="65%">
+<img src="note_transfers/MoVE_multi/multi_2_6_9_11/spectrograms/trbt-ordinario-E3-pp__trans_Violoncello.png" height="65%" width="65%">
 </p>
 
 ### Timbre transfer on instrument solos
@@ -237,29 +237,29 @@ We use three types of synthesis paths, *linear* in between two random coordinate
 
 The animations below show different latent synthesis paths and their decoded spectral distributions. The corresponding videos with audio are available at "./synth_paths/move_star_Asax_violin" (the github preview is slow, we recommend direct downloading them to your computer).
 
-*Linear path in the Alto-Saxophone domain:* [animation](https://github.com/anonymous124/iclr2019MoVE/blob/master/docs/synth_paths/move_star_Asax_violin/path_1_geodesic_linear_Din_0_Pin_0_Oin_2.mov)
+*Linear path in the Alto-Saxophone domain:* [animation](synth_paths/move_star_Asax_violin/path_1_geodesic_linear_Din_0_Pin_0_Oin_2.mov)
 
-<img src="https://raw.githubusercontent.com/anonymous124/iclr2019MoVE/master/docs/synth_paths/move_star_Asax_violin/path_1_geodesic_linear_Din_0_Pin_0_Oin_2.gif" width="432" height="216" />
+<img src="synth_paths/move_star_Asax_violin/path_1_geodesic_linear_Din_0_Pin_0_Oin_2.gif" width="432" height="216" />
 
-*Geodesic optimized path in the Alto-Saxophone domain:* [animation](https://github.com/anonymous124/iclr2019MoVE/blob/master/docs/synth_paths/move_star_Asax_violin/path_1_geodesic_optimized_Din_0_Pin_0_Oin_2.mov)
+*Geodesic optimized path in the Alto-Saxophone domain:* [animation](synth_paths/move_star_Asax_violin/path_1_geodesic_optimized_Din_0_Pin_0_Oin_2.mov)
 
-<img src="https://raw.githubusercontent.com/anonymous124/iclr2019MoVE/master/docs/synth_paths/move_star_Asax_violin/path_1_geodesic_optimized_Din_0_Pin_0_Oin_2.gif" width="432" height="216" />
+<img src="synth_paths/move_star_Asax_violin/path_1_geodesic_optimized_Din_0_Pin_0_Oin_2.gif" width="432" height="216" />
 
-*Geodesic shooting path in the Alto-Saxophone domain and transferred to Violin domain:* [left animation](https://github.com/anonymous124/iclr2019MoVE/blob/master/docs/synth_paths/move_star_Asax_violin/path_1_geodesic_shooting_Din_0_Pin_0_Oin_2.mov) [right animation](https://github.com/anonymous124/iclr2019MoVE/blob/master/docs/synth_paths/move_star_Asax_violin/path_1_geodesic_shooting_trans.mov)
+*Geodesic shooting path in the Alto-Saxophone domain and transferred to Violin domain:* [left animation](synth_paths/move_star_Asax_violin/path_1_geodesic_shooting_Din_0_Pin_0_Oin_2.mov) [right animation](synth_paths/move_star_Asax_violin/path_1_geodesic_shooting_trans.mov)
 
-<img src="https://raw.githubusercontent.com/anonymous124/iclr2019MoVE/master/docs/synth_paths/move_star_Asax_violin/path_1_geodesic_shooting_Din_0_Pin_0_Oin_2.gif" width="432" height="216" /> <img src="https://raw.githubusercontent.com/anonymous124/iclr2019MoVE/master/docs/synth_paths/move_star_Asax_violin/path_1_geodesic_shooting_trans.gif" width="432" height="216" />
+<img src="synth_paths/move_star_Asax_violin/path_1_geodesic_shooting_Din_0_Pin_0_Oin_2.gif" width="432" height="216" /> <img src="synth_paths/move_star_Asax_violin/path_1_geodesic_shooting_trans.gif" width="432" height="216" />
 
-*Linear path in the Violin domain and transferred to Alto-Saxophone domain:* [left animation](https://github.com/anonymous124/iclr2019MoVE/blob/master/docs/synth_paths/move_star_Asax_violin/path_2_geodesic_linear_Din_1_Pin_0_Oin_2.mov) [right animation](https://github.com/anonymous124/iclr2019MoVE/blob/master/docs/synth_paths/move_star_Asax_violin/path_2_geodesic_linear_trans.mov)
+*Linear path in the Violin domain and transferred to Alto-Saxophone domain:* [left animation](synth_paths/move_star_Asax_violin/path_2_geodesic_linear_Din_1_Pin_0_Oin_2.mov) [right animation](synth_paths/move_star_Asax_violin/path_2_geodesic_linear_trans.mov)
 
-<img src="https://raw.githubusercontent.com/anonymous124/iclr2019MoVE/master/docs/synth_paths/move_star_Asax_violin/path_2_geodesic_linear_Din_1_Pin_0_Oin_2.gif" width="432" height="216" /> <img src="https://raw.githubusercontent.com/anonymous124/iclr2019MoVE/master/docs/synth_paths/move_star_Asax_violin/path_2_geodesic_linear_trans.gif" width="432" height="216" />
+<img src="synth_paths/move_star_Asax_violin/path_2_geodesic_linear_Din_1_Pin_0_Oin_2.gif" width="432" height="216" /> <img src="synth_paths/move_star_Asax_violin/path_2_geodesic_linear_trans.gif" width="432" height="216" />
 
-*Geodesic optimized path in the Violin domain:* [animation](https://github.com/anonymous124/iclr2019MoVE/blob/master/docs/synth_paths/move_star_Asax_violin/path_2_geodesic_optimized_Din_1_Pin_0_Oin_2.mov)
+*Geodesic optimized path in the Violin domain:* [animation](synth_paths/move_star_Asax_violin/path_2_geodesic_optimized_Din_1_Pin_0_Oin_2.mov)
 
-<img src="https://raw.githubusercontent.com/anonymous124/iclr2019MoVE/master/docs/synth_paths/move_star_Asax_violin/path_2_geodesic_optimized_Din_1_Pin_0_Oin_2.gif" width="432" height="216" />
+<img src="synth_paths/move_star_Asax_violin/path_2_geodesic_optimized_Din_1_Pin_0_Oin_2.gif" width="432" height="216" />
 
-*Geodesic shooting path in the Violin domain and transferred to Alto-Saxophone domain:* [left animation](https://github.com/anonymous124/iclr2019MoVE/blob/master/docs/synth_paths/move_star_Asax_violin/path_2_geodesic_shooting_Din_1_Pin_0_Oin_2.mov) [right animation](https://github.com/anonymous124/iclr2019MoVE/blob/master/docs/synth_paths/move_star_Asax_violin/path_2_geodesic_shooting_trans.mov)
+*Geodesic shooting path in the Violin domain and transferred to Alto-Saxophone domain:* [left animation](synth_paths/move_star_Asax_violin/path_2_geodesic_shooting_Din_1_Pin_0_Oin_2.mov) [right animation](synth_paths/move_star_Asax_violin/path_2_geodesic_shooting_trans.mov)
 
-<img src="https://raw.githubusercontent.com/anonymous124/iclr2019MoVE/master/docs/synth_paths/move_star_Asax_violin/path_2_geodesic_shooting_Din_1_Pin_0_Oin_2.gif" width="432" height="216" /> <img src="https://raw.githubusercontent.com/anonymous124/iclr2019MoVE/master/docs/synth_paths/move_star_Asax_violin/path_2_geodesic_shooting_trans.gif" width="432" height="216" />
+<img src="synth_paths/move_star_Asax_violin/path_2_geodesic_shooting_Din_1_Pin_0_Oin_2.gif" width="432" height="216" /> <img src="synth_paths/move_star_Asax_violin/path_2_geodesic_shooting_trans.gif" width="432" height="216" />
 
 **MoVE\* model trained on a Flute (domain 0) and French-Horn (domain 1) pair**
 
@@ -272,15 +272,15 @@ As detailed in the corresponding paper, audio descriptors account to a certain e
 The following MoVE\* model was trained on the instrument pair Alto-Saxophone and Violin
 
 <p align="center">
-<img src="https://github.com/anonymous124/iclr2019MoVE/blob/master/docs/desc_mapping/Asax-Violin_centroid.png" height="70%" width="70%">
+<img src="desc_mapping/Asax-Violin_centroid.png" height="70%" width="70%">
 </p>
 
 <p align="center">
-<img src="https://github.com/anonymous124/iclr2019MoVE/blob/master/docs/desc_mapping/Asax-Violin_flatness.png" height="50%" width="50%">
+<img src="desc_mapping/Asax-Violin_flatness.png" height="50%" width="50%">
 </p>
 
 <p align="center">
-<img src="https://github.com/anonymous124/iclr2019MoVE/blob/master/docs/desc_mapping/Asax-Violin_rolloff_librosa.png" height="50%" width="50%">
+<img src="desc_mapping/Asax-Violin_rolloff_librosa.png" height="50%" width="50%">
 </p>
 
 <p align="center">
@@ -288,19 +288,19 @@ The following MoVE\* model was trained on the instrument pair Alto-Saxophone and
 </p>
 
 <p align="center">
-<img src="https://github.com/anonymous124/iclr2019MoVE/blob/master/docs/desc_mapping/Asax-Violin_bandwidth_librosa.png" height="50%" width="50%">
+<img src="desc_mapping/Asax-Violin_bandwidth_librosa.png" height="50%" width="50%">
 </p>
 
 <p align="center">
-<img src="https://github.com/anonymous124/iclr2019MoVE/blob/master/docs/desc_mapping/Asax-Violin_inharmonicity.png" height="50%" width="50%">
+<img src="desc_mapping/Asax-Violin_inharmonicity.png" height="50%" width="50%">
 </p>
 
 <p align="center">
-<img src="https://github.com/anonymous124/iclr2019MoVE/blob/master/docs/desc_mapping/Asax-Violin_sharpness.png" height="50%" width="50%">
+<img src="desc_mapping/Asax-Violin_sharpness.png" height="50%" width="50%">
 </p>
 
 <p align="center">
-<img src="https://github.com/anonymous124/iclr2019MoVE/blob/master/docs/desc_mapping/Asax-Violin_tristimulus.png" height="50%" width="50%">
+<img src="desc_mapping/Asax-Violin_tristimulus.png" height="50%" width="50%">
 </p>
 
 ### Latent space synthesis
@@ -313,25 +313,25 @@ Specifically, we compute the set of *spectral flatness, centroid, roll-off and l
 
 the animations below correspond to decoded audio descriptor distributions in each domain at conditionning **C\#2**
 
-<img src="https://raw.githubusercontent.com/anonymous124/iclr2019MoVE/master/docs/latent_desc_traversal/move_star_flute_Fhorn/bivae_35__desc_space3D_d0_oc2_pi4_centroid_X.gif" width="432" height="216" />  <img src="https://raw.githubusercontent.com/anonymous124/iclr2019MoVE/master/docs/latent_desc_traversal/move_star_flute_Fhorn/bivae_35__desc_space3D_d1_oc2_pi4_centroid_X.gif" width="432" height="216" />
+<img src="latent_desc_traversal/move_star_flute_Fhorn/bivae_35__desc_space3D_d0_oc2_pi4_centroid_X.gif" width="432" height="216" />  <img src="latent_desc_traversal/move_star_flute_Fhorn/bivae_35__desc_space3D_d1_oc2_pi4_centroid_X.gif" width="432" height="216" />
 
-<img src="https://raw.githubusercontent.com/anonymous124/iclr2019MoVE/master/docs/latent_desc_traversal/move_star_flute_Fhorn/bivae_35__desc_space3D_d0_oc2_pi4_flatness_Z.gif" width="432" height="216" />  <img src="https://raw.githubusercontent.com/anonymous124/iclr2019MoVE/master/docs/latent_desc_traversal/move_star_flute_Fhorn/bivae_35__desc_space3D_d1_oc2_pi4_flatness_Z.gif" width="432" height="216" />
+<img src="latent_desc_traversal/move_star_flute_Fhorn/bivae_35__desc_space3D_d0_oc2_pi4_flatness_Z.gif" width="432" height="216" />  <img src="latent_desc_traversal/move_star_flute_Fhorn/bivae_35__desc_space3D_d1_oc2_pi4_flatness_Z.gif" width="432" height="216" />
 
-<img src="https://raw.githubusercontent.com/anonymous124/iclr2019MoVE/master/docs/latent_desc_traversal/move_star_flute_Fhorn/bivae_35__desc_space3D_d0_oc2_pi4_librosa_loudness_X.gif" width="432" height="216" />  <img src="https://raw.githubusercontent.com/anonymous124/iclr2019MoVE/master/docs/latent_desc_traversal/move_star_flute_Fhorn/bivae_35__desc_space3D_d1_oc2_pi4_librosa_loudness_X.gif" width="432" height="216" />
+<img src="latent_desc_traversal/move_star_flute_Fhorn/bivae_35__desc_space3D_d0_oc2_pi4_librosa_loudness_X.gif" width="432" height="216" />  <img src="latent_desc_traversal/move_star_flute_Fhorn/bivae_35__desc_space3D_d1_oc2_pi4_librosa_loudness_X.gif" width="432" height="216" />
 
-<img src="https://raw.githubusercontent.com/anonymous124/iclr2019MoVE/master/docs/latent_desc_traversal/move_star_flute_Fhorn/bivae_35__desc_space3D_d0_oc2_pi4_librosa_rolloff_Y.gif" width="432" height="216" />  <img src="https://raw.githubusercontent.com/anonymous124/iclr2019MoVE/master/docs/latent_desc_traversal/move_star_flute_Fhorn/bivae_35__desc_space3D_d1_oc2_pi4_librosa_rolloff_Y.gif" width="432" height="216" />
+<img src="latent_desc_traversal/move_star_flute_Fhorn/bivae_35__desc_space3D_d0_oc2_pi4_librosa_rolloff_Y.gif" width="432" height="216" />  <img src="latent_desc_traversal/move_star_flute_Fhorn/bivae_35__desc_space3D_d1_oc2_pi4_librosa_rolloff_Y.gif" width="432" height="216" />
 
 **MoVE\* model trained on a Alto-Saxophone (left column / domain 0) and Violin (right column column / domain 1) pair**
 
 the animations below correspond to decoded audio descriptor distributions in each domain at conditionning **C3**
 
-<img src="https://raw.githubusercontent.com/anonymous124/iclr2019MoVE/master/docs/latent_desc_traversal/move_star_Asax_violin/bivae_33__desc_space3D_d0_oc3_pi3_centroid_Y.gif" width="432" height="216" />  <img src="https://raw.githubusercontent.com/anonymous124/iclr2019MoVE/master/docs/latent_desc_traversal/move_star_Asax_violin/bivae_33__desc_space3D_d1_oc3_pi3_centroid_Y.gif" width="432" height="216" />
+<img src="latent_desc_traversal/move_star_Asax_violin/bivae_33__desc_space3D_d0_oc3_pi3_centroid_Y.gif" width="432" height="216" />  <img src="latent_desc_traversal/move_star_Asax_violin/bivae_33__desc_space3D_d1_oc3_pi3_centroid_Y.gif" width="432" height="216" />
 
-<img src="https://raw.githubusercontent.com/anonymous124/iclr2019MoVE/master/docs/latent_desc_traversal/move_star_Asax_violin/bivae_33__desc_space3D_d0_oc3_pi3_flatness_X.gif" width="432" height="216" />  <img src="https://raw.githubusercontent.com/anonymous124/iclr2019MoVE/master/docs/latent_desc_traversal/move_star_Asax_violin/bivae_33__desc_space3D_d1_oc3_pi3_flatness_X.gif" width="432" height="216" />
+<img src="latent_desc_traversal/move_star_Asax_violin/bivae_33__desc_space3D_d0_oc3_pi3_flatness_X.gif" width="432" height="216" />  <img src="latent_desc_traversal/move_star_Asax_violin/bivae_33__desc_space3D_d1_oc3_pi3_flatness_X.gif" width="432" height="216" />
 
-<img src="https://raw.githubusercontent.com/anonymous124/iclr2019MoVE/master/docs/latent_desc_traversal/move_star_Asax_violin/bivae_33__desc_space3D_d0_oc3_pi3_librosa_loudness_Z.gif" width="432" height="216" />  <img src="https://raw.githubusercontent.com/anonymous124/iclr2019MoVE/master/docs/latent_desc_traversal/move_star_Asax_violin/bivae_33__desc_space3D_d1_oc3_pi3_librosa_loudness_Z.gif" width="432" height="216" />
+<img src="latent_desc_traversal/move_star_Asax_violin/bivae_33__desc_space3D_d0_oc3_pi3_librosa_loudness_Z.gif" width="432" height="216" />  <img src="latent_desc_traversal/move_star_Asax_violin/bivae_33__desc_space3D_d1_oc3_pi3_librosa_loudness_Z.gif" width="432" height="216" />
 
-<img src="https://raw.githubusercontent.com/anonymous124/iclr2019MoVE/master/docs/latent_desc_traversal/move_star_Asax_violin/bivae_33__desc_space3D_d0_oc3_pi3_librosa_rolloff_Y.gif" width="432" height="216" />  <img src="https://raw.githubusercontent.com/anonymous124/iclr2019MoVE/master/docs/latent_desc_traversal/move_star_Asax_violin/bivae_33__desc_space3D_d1_oc3_pi3_librosa_rolloff_Y.gif" width="432" height="216" />
+<img src="latent_desc_traversal/move_star_Asax_violin/bivae_33__desc_space3D_d0_oc3_pi3_librosa_rolloff_Y.gif" width="432" height="216" />  <img src="latent_desc_traversal/move_star_Asax_violin/bivae_33__desc_space3D_d1_oc3_pi3_librosa_rolloff_Y.gif" width="432" height="216" />
 
 ## Latent space visualisations
 
