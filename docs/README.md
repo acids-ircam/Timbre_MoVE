@@ -284,7 +284,7 @@ The following MoVE\* model was trained on the instrument pair Alto-Saxophone and
 </p>
 
 <p align="center">
-<img src="https://github.com/anonymous124/iclr2019MoVE/blob/master/docs/desc_mapping/Asax-Violin_loudness_librosa.png" height="50%" width="50%">
+<img src="desc_mapping/Asax-Violin_loudness_librosa.png" height="50%" width="50%">
 </p>
 
 <p align="center">
