@@ -1,30 +1,6 @@
-<!--
-<script src="http://vjs.zencdn.net/4.0/video.js"></script>
--->
-
-<script src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.0/MathJax.js?config=TeX-AMS-MML_HTMLorMML" type="text/javascript"></script>
-
-<script type="text/javascript"> 
-      // Show button
-      function look(type){ 
-      param=document.getElementById(type); 
-      if(param.style.display == "none") param.style.display = "block"; 
-      else param.style.display = "none" 
-      } 
-</script>
-
-
-#
-
 # Modulated Variational auto-Encoders (MoVE) for many-to-many musical timbre transfer
 
-**Note: the repository is work in progress**
-
-**Ultimately, codes will be uploaded after the review.**
-
-This repository is a companion to the paper submitted to ICLR2019 entitled *Modulated Variational auto-Encoders for many-to-many musical timbre transfer*.
-
-Please visit https://openreview.net/forum?id=HJgOl3AqY7 for accessing the submission and possibly leaving us a feedback.
+This repository is a companion to the paper submitted to ICLR2019 entitled *Modulated Variational auto-Encoders for many-to-many musical timbre transfer*. Please visit https://openreview.net/forum?id=HJgOl3AqY7 for accessing the reviews.
 
 Generative models have been successfully applied to image style transfer and domain translation. However, there is still a wide gap in the quality of results when learning such tasks on musical audio. Furthermore, most translation models only enable *one-to-one* or *one-to-many* transfer by relying on separate encoders or decoders and complex, computationally-heavy models. In this paper, we introduce the **Modulated Variational auto-Encoders** (MoVE) to perform *musical timbre transfer*. First, we define timbre transfer as applying parts of the auditory properties of a musical instrument onto another. We show that we can achieve and improve this task by conditioning existing domain translation techniques with **Feature-wise Linear Modulation** (FiLM). Then, by replacing the usual adversarial translation criterion by a **Maximum Mean Discrepancy** (MMD) objective, we alleviate the need for an auxiliary pair of discriminative networks. This allows a faster and more stable training, along with a controllable latent space encoder. By further conditioning our system on several different instruments, we can generalize to *many-to-many* transfer within a single variational architecture able to perform multi-domain transfers. Our models map inputs to **3-dimensional representations**, successfully translating timbre from one instrument to another and supporting sound synthesis on a reduced set of control parameters. We evaluate our method in reconstruction and generation tasks while analyzing the auditory descriptor distributions across transferred domains. We show that this architecture incorporates generative controls in multi-domain transfer, yet remaining rather light, fast to train and effective on small datasets.
 
@@ -73,7 +49,7 @@ Below we display the corresponding spectrograms with first the input NSGT spectr
 
 **Alto-Saxophone reconstruction of ASax-ord-D#5-mf**
 <p align="center">
-<img src="https://github.com/anonymous124/iclr2019MoVE/blob/master/docs/note_transfers/MoVE_multi/multi_0_3_5_8/spectrograms/ASax-ord-D%235-mf___rec_Alto-Sax.png" height="65%" width="65%">
+<img src="note_transfers/MoVE_multi/multi_0_3_5_8/spectrograms/ASax-ord-D%235-mf___rec_Alto-Sax.png" height="65%" width="65%">
 </p>
 
 Transfer to Flute of *ASax-ord-D#5-mf*
